@@ -9,3 +9,4 @@ config.status
 *.la
 libtool
 stamp-h1
+.deps
