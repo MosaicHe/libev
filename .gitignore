@@ -1,0 +1,11 @@
+Makefile
+Symbols.*
+compile
+config.h
+config.log
+config.status
+*.lo
+*.o
+*.la
+libtool
+stamp-h1
