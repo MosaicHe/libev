@@ -1,0 +1,11 @@
+{
+  "name": "libev-c",
+  "version": "4.19.0",
+  "description": "Mirror of http://software.schmorp.de/pkg/libev.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quartzjer/libev.git"
+  },
+  "license": "BSD",
+  "homepage": "http://software.schmorp.de/pkg/libev.html"
+}
